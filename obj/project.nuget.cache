@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "d5Lsg94MIP02JEtSd9HTTRMJsiNDQJeaFucVh/j2Ine9rcHiFcxzUzPu71KwM+68xrqJq9TSZUdQaKDs/Wo0/A==",
+  "dgSpecHash": "mV5clMp5Jd8MacFGzs9ZgxRuKcdzVuerXUJ79iP7yScwYGi3UPDodEtewtZ3YGWbrx9XOlmWBeQSQrt/a3hPmg==",
   "success": true,
   "projectFilePath": "/home/kostas/Documents/DOTNET2/DOTNET2.csproj",
   "expectedPackageFiles": [
@@ -46,6 +46,8 @@
     "/home/kostas/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
     "/home/kostas/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "/home/kostas/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
+    "/home/kostas/.nuget/packages/mysqlconnector/2.2.5/mysqlconnector.2.2.5.nupkg.sha512",
+    "/home/kostas/.nuget/packages/pomelo.entityframeworkcore.mysql/7.0.0/pomelo.entityframeworkcore.mysql.7.0.0.nupkg.sha512",
     "/home/kostas/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/home/kostas/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/home/kostas/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

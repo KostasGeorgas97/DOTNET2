@@ -17,6 +17,7 @@ global using Uni.Controllers;
 global using DOTNET2.Services.UniversitiesService;
 global using DOTNET2.Data;
 global using Microsoft.EntityFrameworkCore;
+global using context = DOTNET2.Data.DataContext;
 
 
 
@@ -43,6 +44,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+context.Database.Migrate();
 
 app.UseHttpsRedirection();
 

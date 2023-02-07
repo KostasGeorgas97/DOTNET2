@@ -17,7 +17,12 @@ namespace Uni.Controllers
           new Universities { Id = 1, Country = "Italy", UniName = "University of Rome", UniWebpage = "https://www.uniroma.it" },
 
         };
+
         private readonly IUniversitiesService _universitiesService;
+        private static readonly HttpClient client = new HttpClient();
+        private static readonly string url = "https://github.com/Hipo/university-domains-list/blob/master/world_universities_and_domains.json";
+
+
 
         public UniController(IUniversitiesService universitiesService)
         {
